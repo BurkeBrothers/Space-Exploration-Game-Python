@@ -1,5 +1,7 @@
 from inv import *
 
+inventory = []
+
 rooms = {
 
             1 : {  "name"  : "Hall" ,
